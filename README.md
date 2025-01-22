@@ -9,5 +9,6 @@ Handles invalid inputs with appropriate error messages.
 Provides a user-friendly menu interface.
 Keeps running until the user chooses to exit.
 
-A few things to keep in mind :
-This is part of an excercise to improve my ability to create stuff in python using online tools in fastest time possible
+Things to keep in mind :
+This is part of an excercise to improve my ability to create stuff in python using online tools in fastest time possible.
+Done using chatgpt only.
